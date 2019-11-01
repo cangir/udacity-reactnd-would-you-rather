@@ -2,7 +2,9 @@
 This repository contains my implementation of the Would You Rather app. This is an assessment project for the Udacity's React Fundamentals course, part of the React Nanodegree Program.
 
 ## Preview
-![Udacity ReactND Would You Rather Screenshot](https://raw.githubusercontent.com/cangir/udacity-reactnd-would-you-rather/master/screenshots/screenshot-home.png)
+![Udacity ReactND Would You Rather Screenshot](https://youtu.be/h0LgUHQ9vzc)
+
+[![Udacity ReactND Would You Rather Screenshot](https://img.youtube.com/vi/h0LgUHQ9vzc/0.jpg)](https://www.youtube.com/watch?v=h0LgUHQ9vzc)
 
 **[View Demo](https://cangir.github.io/udacity-reactnd-would-you-rather/)**
 
@@ -39,7 +41,7 @@ Application will start in your default browser at: `localhost:3000`
 ![Udacity ReactND Would You Rather Leaderboard Page](https://raw.githubusercontent.com/cangir/udacity-reactnd-would-you-rather/master/screenshots/screenshot-leaderboard.png)
 
 ### Login
-![Udacity ReactND Would You Rather Login Page](https://raw.githubusercontent.com/cangir/udacity-reactnd-would-you-rather/master/master/screenshots/screenshot-login.png)
+![Udacity ReactND Would You Rather Login Page](https://raw.githubusercontent.com/cangir/udacity-reactnd-would-you-rather/master/screenshots/screenshot-login.png)
 
 ## Installation
 

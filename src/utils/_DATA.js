@@ -54,7 +54,7 @@ let questions = {
   "8xf0y6ziyjacvozdd253nd": {
     id: "8xf0y6ziyjacvozdd253nd",
     author: "cangir",
-    timestamp: 1579392387000,
+    timestamp: 1572599686000,
     optionOne: {
       votes: ["cangir", "tylermcginnis"],
       text: "be a React developer"
@@ -67,7 +67,7 @@ let questions = {
   "8xf0y6ziyjacaozdd253nd": {
     id: "8xf0y6ziyjacaozdd253nd",
     author: "cangir",
-    timestamp: 1572599686000,
+    timestamp: 1572598876000,
     optionOne: {
       votes: ["cangir"],
       text: "be a Python developer"
@@ -106,7 +106,7 @@ let questions = {
   am8ehyc8byjqgar0jgpub9: {
     id: "am8ehyc8byjqgar0jgpub9",
     author: "sarahedo",
-    timestamp: 1272399786000,
+    timestamp: 1572338916000,
     optionOne: {
       votes: [],
       text: "be telekinetic"
@@ -132,7 +132,7 @@ let questions = {
   vthrdm985a262al8qx3do: {
     id: "vthrdm985a262al8qx3do",
     author: "tylermcginnis",
-    timestamp: 1579392386000,
+    timestamp: 1572338716000,
     optionOne: {
       votes: ["tylermcginnis"],
       text: "find $50 yourself"
@@ -145,7 +145,7 @@ let questions = {
   xj352vofupe1dqz9emx13r: {
     id: "xj352vofupe1dqz9emx13r",
     author: "johndoe",
-    timestamp: 1372398834000,
+    timestamp: 1572336016000,
     optionOne: {
       votes: ["johndoe"],
       text: "write JavaScript"

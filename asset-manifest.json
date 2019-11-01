@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/udacity-reactnd-would-you-rather/static/js/main.d651ef49.chunk.js",
+    "main.js.map": "/udacity-reactnd-would-you-rather/static/js/main.d651ef49.chunk.js.map",
+    "runtime-main.js": "/udacity-reactnd-would-you-rather/static/js/runtime-main.8702268e.js",
+    "runtime-main.js.map": "/udacity-reactnd-would-you-rather/static/js/runtime-main.8702268e.js.map",
+    "static/css/2.e7b0653e.chunk.css": "/udacity-reactnd-would-you-rather/static/css/2.e7b0653e.chunk.css",
+    "static/js/2.d817a349.chunk.js": "/udacity-reactnd-would-you-rather/static/js/2.d817a349.chunk.js",
+    "static/js/2.d817a349.chunk.js.map": "/udacity-reactnd-would-you-rather/static/js/2.d817a349.chunk.js.map",
+    "index.html": "/udacity-reactnd-would-you-rather/index.html",
+    "precache-manifest.e3dab9eacd2488ca38e156bffd876ae3.js": "/udacity-reactnd-would-you-rather/precache-manifest.e3dab9eacd2488ca38e156bffd876ae3.js",
+    "service-worker.js": "/udacity-reactnd-would-you-rather/service-worker.js",
+    "static/css/2.e7b0653e.chunk.css.map": "/udacity-reactnd-would-you-rather/static/css/2.e7b0653e.chunk.css.map",
+    "static/media/Tabler.css": "/udacity-reactnd-would-you-rather/static/media/zw.e223cee5.svg",
+    "static/media/logo.svg": "/udacity-reactnd-would-you-rather/static/media/logo.d01c6036.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8702268e.js",
+    "static/css/2.e7b0653e.chunk.css",
+    "static/js/2.d817a349.chunk.js",
+    "static/js/main.d651ef49.chunk.js"
+  ]
+}

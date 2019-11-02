@@ -41,8 +41,6 @@ Application will start in your default browser at: `localhost:3000`
 ### Login
 ![Udacity ReactND Would You Rather Login Page](https://raw.githubusercontent.com/cangir/udacity-reactnd-would-you-rather/master/screenshots/screenshot-login.png)
 
-## Installation
-
 ## Credits
 First, let us take this opportunity to thank all the creative minds for their great products and hard work.
 
@@ -60,6 +58,9 @@ Name | License
 
 ## Release History
 - 0.1.0 - Initial Release
+
+## Contribution
+If you liked this repository and want to contribute, please read our [Contribution Guideline](https://github.com/cangir/udacity-reactnd-would-you-rather/blob/master/CONTRIBUTION.md).
 
 ## License
 Licensed under [MIT](https://github.com/cangir/udacity-reactnd-would-you-rather/blob/master/LICENSE) License.
